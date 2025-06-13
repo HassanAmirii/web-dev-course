@@ -327,3 +327,5 @@ You'll also find more advanced courses.
 ## Assignment 
 
 Complete [the First Week on GitHub course](https://skills.github.com/#first-week-on-github)
+
+<!-- TODO: 1. challenge, 2. assignments -->
