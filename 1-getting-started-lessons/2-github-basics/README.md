@@ -329,3 +329,10 @@ You'll also find more advanced courses.
 Complete [the First Week on GitHub course](https://skills.github.com/#first-week-on-github)
 
 <!-- TODO: 1. challenge, 2. assignments -->
+<!-- finished challenge: i successfully contributed to a repo  -->
+<!-- challenge 2
+successfully created a pull request
+successfully resolve merge conflict
+successfully release base workflow
+
+ -->
